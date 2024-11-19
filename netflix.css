@@ -1,0 +1,464 @@
+.h1 {
+    color: #cc0000;
+
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 70px;
+    margin: 0;
+}
+
+.login {
+
+    width: 50%;
+    float: right;
+    margin-left: 950px;
+    padding: 5px;
+}
+
+.logo {
+    width: 50%;
+    float: left;
+}
+
+.header {
+    align-items: center;
+    display: flex;
+    padding: 10px 20px;
+
+}
+
+.submit {
+    background: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.submit:hover {
+    background-color: black;
+}
+
+.body {
+    align-items: center;
+    margin-top: 186px;
+    margin-left: 543px;
+    color: white;
+    font-family: helvetica neue, helvetica, arial, sans-serif;
+}
+
+body {
+    background-image: url(n1.jpg);
+    overflow: auto;
+    margin: 0;
+
+
+}
+
+
+
+.first-head {
+    font-size: 50px;
+}
+
+.button {
+    color: white;
+    height: 36px;
+    width: 128px;
+    background: red;
+    border: none;
+}
+
+.button:hover {
+    background-color: black;
+    background-size: auto;
+}
+
+.email {
+    height: 31px;
+    width: 296px;
+
+}
+
+.footer {
+    background: black;
+    width: 100%;
+    margin-top: 529px;
+    height: 4000px;
+
+
+
+
+}
+
+
+.para {
+    color: white;
+    font-size: 20px;
+    ;
+}
+
+.image {
+    float: left;
+    width: 50%;
+}
+
+.line {
+    float: left;
+    width: 50%;
+}
+
+.title {
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 586px;
+    margin-top: -17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.down {
+    color: #cc0000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: initial;
+}
+
+
+
+
+
+.under {
+    margin-top: 86px;
+    font-size: 33px;
+    font-weight: bold;
+    color: white;
+    margin-left: 204px;
+}
+
+.netflix {
+    width: 301px;
+    margin-left: 897px;
+    margin-top: -156px;
+}
+
+.def {
+    color: white;
+    font-size: 16px;
+    margin-left: 212px;
+}
+
+.stranger {
+    font-size: 98px;
+    color: white;
+    font-weight: bold;
+    font-family: unset;
+    margin-left: 81px;
+    margin-top: -3533px;
+
+}
+
+.Play {
+    font-size: 23px;
+    color: white;
+    margin-left: 216px;
+    padding-left: 18px;
+    border: none;
+    margin-top: -45px;
+    background: rgb(196, 13, 13);
+}
+
+.Play:hover {
+    background-color: black;
+}
+
+.line {
+    margin-left: 925px;
+    font-size: 17px;
+    color: white;
+}
+
+.strangers {
+
+    width: 1516px;
+    height: 1010px;
+}
+
+.pop {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 231px;
+
+}
+
+.one {
+    width: 260px;
+    height: 284px;
+}
+
+
+.two {
+
+    height: 284px;
+    width: 261px;
+}
+
+.three {
+    width: 261px;
+    height: 285px;
+}
+
+
+.four {
+    width: 260px;
+    height: 286px;
+
+}
+
+.five {
+    width: 219px;
+    height: 278px;
+}
+
+.six {
+    height: 271px;
+    width: 238px;
+}
+
+.seven {
+    width: 262px;
+    height: 295px;
+}
+
+.eigth {
+    width: 261px;
+    height: 292px;
+}
+
+.ninth {
+    height: 294px;
+    width: 261px;
+}
+
+.ten {
+    width: 256px;
+    height: 295px;
+}
+
+.tw {
+    width: 218px;
+    height: 302px;
+}
+
+.th {
+    width: 237px;
+    height: 303px;
+}
+
+.ind {
+    font-size: 25px;
+    color: white;
+    margin-top: 7px;
+}
+
+.a {
+    width: 268px;
+    height: 285px;
+}
+
+.b {
+    width: 258px;
+    height: 286px;
+}
+
+.c {
+    width: 249px;
+    height: 286px;
+}
+
+
+.d {
+    width: 250px;
+    height: 289px;
+}
+
+.e {
+    width: 228px;
+    height: 288px;
+}
+
+.f {
+    width: 231px;
+    height: 290px;
+}
+
+.tv {
+    color: white;
+}
+
+.g {
+    width: 270px;
+    height: 272px;
+}
+
+
+.h {
+    width: 264px;
+    height: 273px
+}
+
+.i {
+    width: 248px;
+    height: 273px;
+}
+
+.j {
+    width: 247px;
+    height: 275px;
+}
+
+.k {
+    width: 234px;
+    height: 273px;
+}
+
+.l {
+    width: 225px;
+    height: 274px;
+}
+
+.ka {
+    color: white;
+    font-weight: bold;
+}
+
+.m {
+    height: 267px;
+    width: 256px;
+}
+
+
+.n {
+    width: 254px;
+    height: 268px;
+
+}
+
+.o {
+    width: 259px;
+    height: 270px;
+}
+
+
+.p {
+    width: 256px;
+    height: 268px;
+
+}
+
+.q {
+    width: 237px;
+    height: 270px;
+
+}
+
+.r {
+    width: 235px;
+    height: 272px;
+}
+
+.sci {
+    font-weight: bold;
+    color: white;
+}
+
+.s {
+    width: 251px;
+    height: 263px;
+}
+
+.t {
+    width: 257px;
+    height: 264px;
+}
+
+.u {
+    width: 257px;
+    height: 270px;
+
+}
+
+.v {
+    width: 247px;
+    height: 268px;
+
+}
+
+.w {
+    width: 246px;
+    height: 270px;
+
+}
+
+.x {
+    width: 239px;
+    height: 269px;
+}
+
+.com {
+    font-weight: bold;
+    color: white;
+}
+
+.ab {
+    width: 241px;
+    height: 289px;
+}
+
+.ac {
+    width: 263px;
+    height: 287px;
+}
+
+.ad {
+    width: 262px;
+    height: 287px;
+}
+
+.ae {
+    width: 254px;
+    height: 287px;
+}
+
+.af {
+    width: 250px;
+    height: 287px;
+}
+
+.ag {
+    width: 225px;
+    height: 287px;
+}
+
+.table {
+    color: #767676;
+    margin-left: 999px;
+    font-size: 18px;
+    margin-top: -58px;
+}
+
+.last {
+    font-weight: bold;
+    color: #cc0000;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.sh {
+    background: gray;
+    color: white;
+    margin-left: 30px;
+}
